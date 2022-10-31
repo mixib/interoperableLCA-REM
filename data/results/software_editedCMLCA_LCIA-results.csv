@@ -1,0 +1,10 @@
+File,Nd LCA v34_strip20200406+raw22+CML2001_econAllocREO-electroplating-primaryNickel.lca,,,,,,,,
+Resolution,7 digits,,,,,,,,
+&Reference = None,,,,,,,,,
+Label,Name,"[C2] CML 2001, eutrophication potential, average European[RER] (kg NOx-Eq)","[C14] CML 2001, acidification potential, average European[RER] (kg SO2-Eq)","[C17] CML 2001, photochemical oxidation (summer smog), high NOx POCP[RER] (kg ethylene-Eq)","[C22] CML 2001, climate change, GWP 100a[GLO] (kg CO2-Eq)","[C30] CML 2001, ionising radiation, ionising radiation[GLO] (DALYs)","[C38] CML 2001, freshwater aquatic ecotoxicity, FAETP infinite[GLO] (kg 1,4-DCB-Eq)","[C46] CML 2001, stratospheric ozone depletion, ODP steady state[GLO] (kg CFC-11-Eq)","[C50] CML 2001, human toxicity, HTP infinite[GLO] (kg 1,4-DCB-Eq)"
+[A1],"baseline, primary, NdFeB magnet",0.1892194,0.4409249,0.01717864,26.48635,5.11E-08,13.9037,2.59E-06,148.3975
+[A2],Recycled NdFeB magnet via hand picking,0.0170463,0.173258,0.00683589,4.03699,3.38E-08,9.78102,1.57E-07,10.77481
+[A3],"Output of [G4116] NdO from solvent extraction, primary, Hi-tech",0.1208744,0.1389178,0.005348716,12.38273,3.92E-08,2.704858,2.48E-06,35.02097
+[A4],recycled NdFeB magnet via shredding,0.03182789,0.2068606,0.008355063,9.99697,7.90E-08,11.25264,8.44E-07,27.88272
+[A5],"Output of [G4097] NdO from solvent extraction, baseline",0.1464485,0.1713153,0.006547189,13.83331,4.10E-08,2.998565,2.68E-06,140.1453
+[A6],"Output of [G4133] NdO from solvent extraction, Low-tech",0.1836189,0.2228583,0.008461577,15.90579,4.35E-08,3.465054,2.96E-06,323.0595
