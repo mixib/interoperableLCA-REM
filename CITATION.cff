@@ -1,0 +1,102 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Data and scripts for interoperable and reusable LCA system
+  models of rare earth magnet production
+message: >-
+  If you use the scripts, please refer to the Zenodo
+  repository. For other use cases, please cite the research
+  article as provided in the preferred-citation field.
+type: software
+authors:
+  - given-names: Brenda
+    family-names: "Miranda Xicotencatl"
+    email: b.miranda.xicotencatl@umail.leidenuniv.nl
+    affiliation: >-
+      Institute of Environmental Sciences of Leiden
+      University (CML)
+    orcid: 'https://orcid.org/0000-0003-0714-6697'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7268485
+    description: >-
+      This is the collection of all versions of the 'Data
+      and scripts for interoperable and reusable LCA system
+      models of rare earth magnet production' archived in
+      Zenodo.
+abstract: >-
+  This repository contains the scripts and own generated
+  data developed for the article entitled 'Data
+  implementation matters: Effect of software choice and LCI
+  database evolution on a comparative LCA study of permanent
+  magnets'. The data folder contains the characterized
+  results of three alternatives for the production of rare
+  earth magnets (REMs), calculated with several versions of
+  the ecoinvent database (v2.2 and cut-off v3.1 to v3.6),
+  their life cycle inventories, the foreground data to
+  reproduce their product system models and the data plotted
+  in Figures 3, 4 and 5 of the related article.
+keywords:
+  - interoperability
+  - life cycle assessment
+  - LCA
+  - life cycle inventory
+  - LCI database
+  - background
+  - neodymium
+  - permanent magnet
+  - LCA software
+  - reproducibility
+  - industrial ecology
+license: MIT
+
+preferred-citation:
+  authors:
+    - family-names: "Miranda Xicotencatl"
+      given-names: Brenda
+    - family-names: Kleijn
+      given-names: Rene
+    - family-names: Nielen
+      given-names: Sander
+      name-particle: van
+    - family-names: Donati
+      given-names: Franco
+    - family-names: Sprecher
+      given-names: Benjamin
+    - family-names: Tukker
+      given-names: Arnold
+  title: >-
+    Data implementation matters: Effect of software choice
+    and LCI database evolution on a comparative LCA study
+    of permanent magnets
+  type: article
+  year: 2023
+  doi: 10.1111/jiec.13410
+  journal: "Journal of Industrial Ecology"
+
+references:
+  - authors:
+    - family-names: Sprecher
+      given-names: Benjamin
+    - family-names: Xiao
+      given-names: Yanping
+    - family-names: Walton
+      given-names: Allan
+    - family-names: Speight
+      given-names: John
+    - family-names: Harris
+      given-names: Rex
+    - family-names: Kleijn
+      given-names: Rene
+    - family-names: Visser
+      given-names: Geert
+    - family-names: Kramer
+      given-names: "Gert Jan"
+    title: >-
+      Life Cycle Inventory of the Production of Rare Earths and the Subsequent
+      Production of NdFeB Rare Earth Permanent Magnets
+    type: article
+    year: 2014
+    doi: 10.1021/es404596q
