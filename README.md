@@ -6,6 +6,10 @@ Miranda Xicotencatl, B., Kleijn, R., van Nielen, S., Donati, F., Sprecher B. & T
 
 The data folder contains the characterized results of three alternatives for the production of rare earth magnets (REMs), calculated with several versions of the ecoinvent database (v2.2 and cut-off v3.1 to v3.6), their life cycle inventories, the foreground data to reproduce their product system models and the data plotted in Figures 3, 4 and 5 of the related article.
 
+The file with the Data Underlying the Figures in the Main Article is: `dataPlottedInFig_3_4_and_5.xlsx`.
+
+The document [BWimport](BWimport.ipynb) in the repository guides the user through the interaction with the custom scripts necessary to reproduce the results of this research. It is [available as a PDF](SI1_BWimport.pdf) and as an interactive Jupyter notebook (IPYNB).
+
 **Please refer to the article and the first part of the supplementary information (SI1) for further details about the context and purpose of this repository.**
 
 The table below describes the organization of the own generated data for the referred article.
